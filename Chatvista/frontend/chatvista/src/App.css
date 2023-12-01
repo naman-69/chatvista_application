@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;0,700;1,100;1,200;1,300;1,400;1,600&family=Work+Sans:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;0,700;1,100;1,200;1,300;1,400;1,600&family=Work+Sans:wght@300&display=swap');
+
+.App{
+    min-height: 100vh;
+    display: flex;
+    background-image: url("./bg.jpg");
+    background-size: cover;
+    background-position: center center;
+    color: black;
+
+}
+::-webkit-scrollbar {
+    width: 0px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgba(136, 136, 136, 0.281);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  
+  .chat-container{
+    background-color: #AEC4FC;
+    
+    
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  }
+.chat-box{
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -1px 6px 1px inset;
+}
+.new-group-chat{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.chats-box{
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    background-color: #AEC4FC;
+}
+.image-icon{
+
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

@@ -1,0 +1,14 @@
+.login-head {
+    background: #ad5389;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #bd6aea, #14b0b3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8d18cb, #d313b6); 
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    
+}
+.chat-page{
+    background-color: #9899ff;
+    background-image: linear-gradient(62deg, #9899ff 0%, #fcc0fc 100%);
+    
+    
+
+}
